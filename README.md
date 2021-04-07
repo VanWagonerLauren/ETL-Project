@@ -8,4 +8,4 @@ According to the World Happiness Report, 6 factors can determine the happiness o
 Sources:
 https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 
-API- https://knoema.com/SDSNWHP2020/world-happiness-index-2020-full-version
+https://data.world/makeovermonday/2020w19-world-happiness-report-2020
